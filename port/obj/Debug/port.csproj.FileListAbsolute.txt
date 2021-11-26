@@ -1,0 +1,10 @@
+C:\Users\86150\VSproject\port\bin\Debug\port.exe.config
+C:\Users\86150\VSproject\port\bin\Debug\port.exe
+C:\Users\86150\VSproject\port\bin\Debug\port.pdb
+C:\Users\86150\VSproject\port\obj\Debug\port.csproj.AssemblyReference.cache
+C:\Users\86150\VSproject\port\obj\Debug\port.Form1.resources
+C:\Users\86150\VSproject\port\obj\Debug\port.Properties.Resources.resources
+C:\Users\86150\VSproject\port\obj\Debug\port.csproj.GenerateResource.cache
+C:\Users\86150\VSproject\port\obj\Debug\port.csproj.CoreCompileInputs.cache
+C:\Users\86150\VSproject\port\obj\Debug\port.exe
+C:\Users\86150\VSproject\port\obj\Debug\port.pdb
